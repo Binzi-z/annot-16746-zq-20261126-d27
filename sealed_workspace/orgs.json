@@ -1,0 +1,7 @@
+{
+  "orgs": [
+    {"org_id": "east", "name": "华东应急代理组织", "root_scope": "*"},
+    {"org_id": "north", "name": "华北应急代理组织", "root_scope": "*"},
+    {"org_id": "south", "name": "华南应急代理组织", "root_scope": "*"}
+  ]
+}

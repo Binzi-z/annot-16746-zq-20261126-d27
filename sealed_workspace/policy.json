@@ -1,0 +1,10 @@
+{
+  "policy_id": "offline-duty-authz-policy",
+  "version": 3,
+  "required_independent_roots": 2,
+  "upstream_dedup": "same-control-root-multiple-chains-count-one-vote",
+  "term_timebase": "synthetic-logical-seconds",
+  "decision_instant": 1760000000,
+  "allowed_alg": "HS256-synthetic",
+  "note": "合成值班名单离线授权策略；控制根密钥仅存在于本地合成 Keyring。"
+}

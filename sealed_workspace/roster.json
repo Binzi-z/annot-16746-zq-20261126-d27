@@ -1,0 +1,15 @@
+{
+  "roster_id": "duty-roster-2026-synthetic",
+  "sealed_at": "2026-11-26T00:00:00+08:00",
+  "agents": [
+    {"agent_id": "agent-a", "name": "值班员 A", "org": "east", "post": "db-oncall"},
+    {"agent_id": "agent-b", "name": "值班员 B", "org": "east", "post": "db-oncall"},
+    {"agent_id": "agent-c", "name": "值班员 C", "org": "north", "post": "cache-oncall"},
+    {"agent_id": "agent-d", "name": "值班员 D", "org": "south", "post": "queue-oncall"},
+    {"agent_id": "agent-e", "name": "值班员 E", "org": "east", "post": "db-oncall"},
+    {"agent_id": "agent-f", "name": "值班员 F", "org": "north", "post": "sec-oncall"},
+    {"agent_id": "agent-g", "name": "值班员 G", "org": "south", "post": "mq-oncall"},
+    {"agent_id": "agent-h", "name": "值班员 H", "org": "east", "post": "db-oncall"},
+    {"agent_id": "agent-i", "name": "值班员 I", "org": "north", "post": "cache-oncall"}
+  ]
+}
